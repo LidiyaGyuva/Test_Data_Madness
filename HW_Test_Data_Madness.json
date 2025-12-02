@@ -1,0 +1,64 @@
+[
+  {
+    "carData": {
+      "carBrandTitle": "Fiat",
+      "carModelTitle": "Panda",
+      "initialMileage": 777
+    },
+    "userData": {
+      "name": "Miya",
+      "lastname": "Tuka"
+    },
+	"expensesData": {
+		"liters": 100,
+		"totalCost": 190
+	},
+    "changeExpensesData": {
+      "liters": 135,
+      "totalCost": 320
+    },
+	
+    "URL": "https://qauto2.forstudy.space/api/"
+  },
+  {
+    "carData": {
+      "carBrandTitle": "BMW",
+      "carModelTitle": "X5",
+      "initialMileage": 999
+    },
+    "userData": {
+      "name": "Nana",
+      "lastname": "Tuka"
+    },
+	"expensesData": {
+		"liters": 121,
+		"totalCost": 110
+	},
+    "changeExpensesData": {
+      "liters": 147,
+      "totalCost": 450
+    },
+    "URL": "https://qauto.forstudy.space/api/"
+  },
+	{
+    "carData": {
+      "carBrandTitle": "Audi",
+      "carModelTitle": "A6",
+      "initialMileage": 111
+    },
+    "userData": {
+      "name": "Anna",
+      "lastname": "Tuka"
+    },
+	"expensesData": {
+		"liters": 131,
+		"totalCost": 130
+	},
+    "changeExpensesData": {
+      "liters": 155,
+      "totalCost": 310
+    },
+    "URL": "https://qauto.forstudy.space/api/"
+  }
+  
+]
